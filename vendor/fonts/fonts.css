@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Maison Mono regular';
+    font-weight: 400;
+    src: url("./Maison Mono/MaisonMono-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'Maison Mono medium';
+    font-weight: 500;
+    src: url("./Maison Mono/MaisonMono-Medium.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'Maison Mono bold';
+    font-weight: 900;
+    src: url("./Maison Mono/MaisonMono-Bold.woff") format("woff");
+}
